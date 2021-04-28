@@ -1,0 +1,2 @@
+可直接通过命令python train_test.py运行
+更换模型请修改train_test.py第35行
